@@ -1,0 +1,6 @@
+(podnies-z-paczki e d)
+(opusc-na-podloge e)
+(podnies-z-paczki c b)
+(opusc-na-podloge c)
+(podnies-z-podlogi d)
+(opusc-na-paczke b d)
